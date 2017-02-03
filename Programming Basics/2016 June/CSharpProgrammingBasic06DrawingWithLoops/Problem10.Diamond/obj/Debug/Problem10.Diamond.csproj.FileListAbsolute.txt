@@ -1,0 +1,6 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic06DrawingWithLoops\Problem10.Diamond\bin\Debug\Problem10.Diamond.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic06DrawingWithLoops\Problem10.Diamond\bin\Debug\Problem10.Diamond.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic06DrawingWithLoops\Problem10.Diamond\bin\Debug\Problem10.Diamond.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic06DrawingWithLoops\Problem10.Diamond\obj\Debug\Problem10.Diamond.csprojResolveAssemblyReference.cache
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic06DrawingWithLoops\Problem10.Diamond\obj\Debug\Problem10.Diamond.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic06DrawingWithLoops\Problem10.Diamond\obj\Debug\Problem10.Diamond.pdb

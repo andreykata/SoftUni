@@ -1,0 +1,6 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem11.EnterEvenNumber\bin\Debug\Problem11.EnterEvenNumber.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem11.EnterEvenNumber\bin\Debug\Problem11.EnterEvenNumber.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem11.EnterEvenNumber\bin\Debug\Problem11.EnterEvenNumber.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem11.EnterEvenNumber\obj\Debug\Problem11.EnterEvenNumber.csprojResolveAssemblyReference.cache
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem11.EnterEvenNumber\obj\Debug\Problem11.EnterEvenNumber.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem11.EnterEvenNumber\obj\Debug\Problem11.EnterEvenNumber.pdb

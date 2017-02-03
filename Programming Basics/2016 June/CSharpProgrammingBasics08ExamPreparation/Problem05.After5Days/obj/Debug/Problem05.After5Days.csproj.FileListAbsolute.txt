@@ -1,0 +1,5 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics08ExamPreparation\Problem05.After5Days\bin\Debug\Problem05.After5Days.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics08ExamPreparation\Problem05.After5Days\bin\Debug\Problem05.After5Days.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics08ExamPreparation\Problem05.After5Days\bin\Debug\Problem05.After5Days.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics08ExamPreparation\Problem05.After5Days\obj\Debug\Problem05.After5Days.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics08ExamPreparation\Problem05.After5Days\obj\Debug\Problem05.After5Days.pdb

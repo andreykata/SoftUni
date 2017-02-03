@@ -1,0 +1,5 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Task06SumSeconds\bin\Debug\Task06SumSeconds.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Task06SumSeconds\bin\Debug\Task06SumSeconds.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Task06SumSeconds\bin\Debug\Task06SumSeconds.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Task06SumSeconds\obj\Debug\Task06SumSeconds.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Task06SumSeconds\obj\Debug\Task06SumSeconds.pdb

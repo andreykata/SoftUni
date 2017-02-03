@@ -1,0 +1,5 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Task02EvenOrOdd\bin\Debug\Task02EvenOrOdd.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Task02EvenOrOdd\bin\Debug\Task02EvenOrOdd.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Task02EvenOrOdd\bin\Debug\Task02EvenOrOdd.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Task02EvenOrOdd\obj\Debug\Task02EvenOrOdd.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Task02EvenOrOdd\obj\Debug\Task02EvenOrOdd.pdb

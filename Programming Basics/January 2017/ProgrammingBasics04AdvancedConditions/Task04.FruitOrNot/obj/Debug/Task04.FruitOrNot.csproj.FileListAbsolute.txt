@@ -1,5 +1,0 @@
-c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics04AdvancedConditions\Task04.FruitOrNot\bin\Debug\Task04.FruitOrNot.exe.config
-c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics04AdvancedConditions\Task04.FruitOrNot\bin\Debug\Task04.FruitOrNot.exe
-c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics04AdvancedConditions\Task04.FruitOrNot\bin\Debug\Task04.FruitOrNot.pdb
-c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics04AdvancedConditions\Task04.FruitOrNot\obj\Debug\Task04.FruitOrNot.exe
-c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics04AdvancedConditions\Task04.FruitOrNot\obj\Debug\Task04.FruitOrNot.pdb

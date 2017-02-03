@@ -1,0 +1,5 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic06DrawingWithLoops\Problem05.SquareFrame\bin\Debug\Problem05.SquareFrame.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic06DrawingWithLoops\Problem05.SquareFrame\bin\Debug\Problem05.SquareFrame.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic06DrawingWithLoops\Problem05.SquareFrame\bin\Debug\Problem05.SquareFrame.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic06DrawingWithLoops\Problem05.SquareFrame\obj\Debug\Problem05.SquareFrame.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic06DrawingWithLoops\Problem05.SquareFrame\obj\Debug\Problem05.SquareFrame.pdb

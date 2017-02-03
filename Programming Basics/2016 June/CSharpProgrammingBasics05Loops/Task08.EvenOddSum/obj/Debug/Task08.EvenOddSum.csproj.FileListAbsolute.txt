@@ -1,0 +1,6 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics05Loops\Task08.EvenOddSum\bin\Debug\Task08.EvenOddSum.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics05Loops\Task08.EvenOddSum\bin\Debug\Task08.EvenOddSum.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics05Loops\Task08.EvenOddSum\bin\Debug\Task08.EvenOddSum.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics05Loops\Task08.EvenOddSum\obj\Debug\Task08.EvenOddSum.csprojResolveAssemblyReference.cache
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics05Loops\Task08.EvenOddSum\obj\Debug\Task08.EvenOddSum.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics05Loops\Task08.EvenOddSum\obj\Debug\Task08.EvenOddSum.pdb

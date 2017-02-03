@@ -1,0 +1,6 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics08ExamPreparation\Problem10.RectangleWithStars\bin\Debug\Problem10.RectangleWithStars.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics08ExamPreparation\Problem10.RectangleWithStars\bin\Debug\Problem10.RectangleWithStars.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics08ExamPreparation\Problem10.RectangleWithStars\bin\Debug\Problem10.RectangleWithStars.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics08ExamPreparation\Problem10.RectangleWithStars\obj\Debug\Problem10.RectangleWithStars.csprojResolveAssemblyReference.cache
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics08ExamPreparation\Problem10.RectangleWithStars\obj\Debug\Problem10.RectangleWithStars.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics08ExamPreparation\Problem10.RectangleWithStars\obj\Debug\Problem10.RectangleWithStars.pdb

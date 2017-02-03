@@ -1,0 +1,5 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic06DrawingWithLoops\Problem04.TriangleOfDolars\bin\Debug\Problem04.TriangleOfDolars.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic06DrawingWithLoops\Problem04.TriangleOfDolars\bin\Debug\Problem04.TriangleOfDolars.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic06DrawingWithLoops\Problem04.TriangleOfDolars\bin\Debug\Problem04.TriangleOfDolars.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic06DrawingWithLoops\Problem04.TriangleOfDolars\obj\Debug\Problem04.TriangleOfDolars.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic06DrawingWithLoops\Problem04.TriangleOfDolars\obj\Debug\Problem04.TriangleOfDolars.pdb

@@ -1,0 +1,6 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem08.Factorial\bin\Debug\Problem08.Factorial.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem08.Factorial\bin\Debug\Problem08.Factorial.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem08.Factorial\bin\Debug\Problem08.Factorial.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem08.Factorial\obj\Debug\Problem08.Factorial.csprojResolveAssemblyReference.cache
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem08.Factorial\obj\Debug\Problem08.Factorial.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem08.Factorial\obj\Debug\Problem08.Factorial.pdb

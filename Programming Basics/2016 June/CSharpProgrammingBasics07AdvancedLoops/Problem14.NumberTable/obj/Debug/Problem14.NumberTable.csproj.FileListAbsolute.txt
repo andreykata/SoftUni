@@ -1,0 +1,5 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem14.NumberTable\bin\Debug\Problem14.NumberTable.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem14.NumberTable\bin\Debug\Problem14.NumberTable.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem14.NumberTable\bin\Debug\Problem14.NumberTable.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem14.NumberTable\obj\Debug\Problem14.NumberTable.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem14.NumberTable\obj\Debug\Problem14.NumberTable.pdb

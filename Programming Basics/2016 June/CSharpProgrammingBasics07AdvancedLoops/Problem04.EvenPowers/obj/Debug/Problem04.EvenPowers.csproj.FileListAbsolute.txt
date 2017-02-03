@@ -1,0 +1,6 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem04.EvenPowers\bin\Debug\Problem04.EvenPowers.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem04.EvenPowers\bin\Debug\Problem04.EvenPowers.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem04.EvenPowers\bin\Debug\Problem04.EvenPowers.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem04.EvenPowers\obj\Debug\Problem04.EvenPowers.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem04.EvenPowers\obj\Debug\Problem04.EvenPowers.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem04.EvenPowers\obj\Debug\Problem04.EvenPowers.csprojResolveAssemblyReference.cache

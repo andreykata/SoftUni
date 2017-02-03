@@ -1,6 +1,0 @@
-c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics02SimpleCalculation\Task03.Hello\bin\Debug\Task03.Hello.exe.config
-c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics02SimpleCalculation\Task03.Hello\bin\Debug\Task03.Hello.exe
-c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics02SimpleCalculation\Task03.Hello\bin\Debug\Task03.Hello.pdb
-c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics02SimpleCalculation\Task03.Hello\obj\Debug\Task03.Hello.csprojResolveAssemblyReference.cache
-c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics02SimpleCalculation\Task03.Hello\obj\Debug\Task03.Hello.exe
-c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics02SimpleCalculation\Task03.Hello\obj\Debug\Task03.Hello.pdb

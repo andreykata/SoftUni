@@ -1,5 +1,0 @@
-c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics02SimpleCalculation\Task06.Circle\bin\Debug\Task06.Circle.exe.config
-c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics02SimpleCalculation\Task06.Circle\bin\Debug\Task06.Circle.exe
-c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics02SimpleCalculation\Task06.Circle\bin\Debug\Task06.Circle.pdb
-c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics02SimpleCalculation\Task06.Circle\obj\Debug\Task06.Circle.exe
-c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics02SimpleCalculation\Task06.Circle\obj\Debug\Task06.Circle.pdb

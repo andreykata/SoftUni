@@ -1,0 +1,5 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic01FirstSteps\08.SquareOfStarts\bin\Debug\08.SquareOfStarts.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic01FirstSteps\08.SquareOfStarts\bin\Debug\08.SquareOfStarts.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic01FirstSteps\08.SquareOfStarts\bin\Debug\08.SquareOfStarts.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic01FirstSteps\08.SquareOfStarts\obj\Debug\08.SquareOfStarts.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic01FirstSteps\08.SquareOfStarts\obj\Debug\08.SquareOfStarts.pdb

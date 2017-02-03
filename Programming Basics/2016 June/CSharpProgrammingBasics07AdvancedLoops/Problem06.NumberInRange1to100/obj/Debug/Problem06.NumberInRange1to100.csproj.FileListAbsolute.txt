@@ -1,0 +1,5 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem06.NumberInRange1to100\bin\Debug\Problem06.NumberInRange1to100.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem06.NumberInRange1to100\bin\Debug\Problem06.NumberInRange1to100.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem06.NumberInRange1to100\bin\Debug\Problem06.NumberInRange1to100.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem06.NumberInRange1to100\obj\Debug\Problem06.NumberInRange1to100.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem06.NumberInRange1to100\obj\Debug\Problem06.NumberInRange1to100.pdb

@@ -1,0 +1,6 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem03.PowersOfTwo\bin\Debug\Problem03.PowersOfTwo.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem03.PowersOfTwo\bin\Debug\Problem03.PowersOfTwo.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem03.PowersOfTwo\bin\Debug\Problem03.PowersOfTwo.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem03.PowersOfTwo\obj\Debug\Problem03.PowersOfTwo.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem03.PowersOfTwo\obj\Debug\Problem03.PowersOfTwo.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem03.PowersOfTwo\obj\Debug\Problem03.PowersOfTwo.csprojResolveAssemblyReference.cache

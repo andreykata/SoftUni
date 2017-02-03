@@ -1,0 +1,5 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasicsExam28August2016\Problem05Axe\bin\Debug\Problem05Axe.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasicsExam28August2016\Problem05Axe\bin\Debug\Problem05Axe.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasicsExam28August2016\Problem05Axe\bin\Debug\Problem05Axe.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasicsExam28August2016\Problem05Axe\obj\Debug\Problem05Axe.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasicsExam28August2016\Problem05Axe\obj\Debug\Problem05Axe.pdb

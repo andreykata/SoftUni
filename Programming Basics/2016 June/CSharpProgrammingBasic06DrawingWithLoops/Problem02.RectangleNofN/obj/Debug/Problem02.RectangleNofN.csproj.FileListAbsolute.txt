@@ -1,0 +1,5 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic06DrawingWithLoops\Problem02.RectangleNofN\bin\Debug\Problem02.RectangleNofN.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic06DrawingWithLoops\Problem02.RectangleNofN\bin\Debug\Problem02.RectangleNofN.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic06DrawingWithLoops\Problem02.RectangleNofN\bin\Debug\Problem02.RectangleNofN.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic06DrawingWithLoops\Problem02.RectangleNofN\obj\Debug\Problem02.RectangleNofN.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic06DrawingWithLoops\Problem02.RectangleNofN\obj\Debug\Problem02.RectangleNofN.pdb

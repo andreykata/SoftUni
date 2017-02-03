@@ -1,0 +1,6 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem01.1ToNStep3\bin\Debug\Problem01.1ToNStep3.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem01.1ToNStep3\bin\Debug\Problem01.1ToNStep3.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem01.1ToNStep3\bin\Debug\Problem01.1ToNStep3.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem01.1ToNStep3\obj\Debug\Problem01.1ToNStep3.csprojResolveAssemblyReference.cache
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem01.1ToNStep3\obj\Debug\Problem01.1ToNStep3.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem01.1ToNStep3\obj\Debug\Problem01.1ToNStep3.pdb

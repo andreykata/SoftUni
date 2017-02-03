@@ -1,0 +1,6 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics08ExamPreparation\Problem08.IncreasingElements\bin\Debug\Problem08.IncreasingElements.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics08ExamPreparation\Problem08.IncreasingElements\bin\Debug\Problem08.IncreasingElements.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics08ExamPreparation\Problem08.IncreasingElements\bin\Debug\Problem08.IncreasingElements.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics08ExamPreparation\Problem08.IncreasingElements\obj\Debug\Problem08.IncreasingElements.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics08ExamPreparation\Problem08.IncreasingElements\obj\Debug\Problem08.IncreasingElements.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics08ExamPreparation\Problem08.IncreasingElements\obj\Debug\Problem08.IncreasingElements.csprojResolveAssemblyReference.cache

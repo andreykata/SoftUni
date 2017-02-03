@@ -1,0 +1,6 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics08ExamPreparation\Problem06.Sums3Numbers\bin\Debug\Problem06.Sums3Numbers.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics08ExamPreparation\Problem06.Sums3Numbers\bin\Debug\Problem06.Sums3Numbers.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics08ExamPreparation\Problem06.Sums3Numbers\bin\Debug\Problem06.Sums3Numbers.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics08ExamPreparation\Problem06.Sums3Numbers\obj\Debug\Problem06.Sums3Numbers.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics08ExamPreparation\Problem06.Sums3Numbers\obj\Debug\Problem06.Sums3Numbers.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics08ExamPreparation\Problem06.Sums3Numbers\obj\Debug\Problem06.Sums3Numbers.csprojResolveAssemblyReference.cache

@@ -1,6 +1,0 @@
-c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics04AdvancedConditions\Task07.FuitShop\bin\Debug\Task07.FuitShop.exe.config
-c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics04AdvancedConditions\Task07.FuitShop\bin\Debug\Task07.FuitShop.exe
-c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics04AdvancedConditions\Task07.FuitShop\bin\Debug\Task07.FuitShop.pdb
-c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics04AdvancedConditions\Task07.FuitShop\obj\Debug\Task07.FuitShop.csprojResolveAssemblyReference.cache
-c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics04AdvancedConditions\Task07.FuitShop\obj\Debug\Task07.FuitShop.exe
-c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics04AdvancedConditions\Task07.FuitShop\obj\Debug\Task07.FuitShop.pdb

@@ -1,0 +1,6 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic06DrawingWithLoops\Problem01.Rectangle10Of10\bin\Debug\Problem01.Rectangle10Of10.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic06DrawingWithLoops\Problem01.Rectangle10Of10\bin\Debug\Problem01.Rectangle10Of10.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic06DrawingWithLoops\Problem01.Rectangle10Of10\bin\Debug\Problem01.Rectangle10Of10.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic06DrawingWithLoops\Problem01.Rectangle10Of10\obj\Debug\Problem01.Rectangle10Of10.csprojResolveAssemblyReference.cache
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic06DrawingWithLoops\Problem01.Rectangle10Of10\obj\Debug\Problem01.Rectangle10Of10.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic06DrawingWithLoops\Problem01.Rectangle10Of10\obj\Debug\Problem01.Rectangle10Of10.pdb

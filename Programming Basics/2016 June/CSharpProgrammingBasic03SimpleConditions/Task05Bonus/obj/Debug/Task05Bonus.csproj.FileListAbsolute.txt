@@ -1,0 +1,5 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Task05Bonus\bin\Debug\Task05Bonus.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Task05Bonus\bin\Debug\Task05Bonus.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Task05Bonus\bin\Debug\Task05Bonus.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Task05Bonus\obj\Debug\Task05Bonus.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Task05Bonus\obj\Debug\Task05Bonus.pdb

@@ -1,0 +1,9 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Task09CurrencyConvertor\bin\Debug\Task09CurrencyConvertor.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Task09CurrencyConvertor\bin\Debug\Task09CurrencyConvertor.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Task09CurrencyConvertor\bin\Debug\Task09CurrencyConvertor.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Task09CurrencyConvertor\obj\Debug\Task09CurrencyConvertor.csprojResolveAssemblyReference.cache
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Task09CurrencyConvertor\obj\Debug\Task09CurrencyConvertor.Form1.resources
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Task09CurrencyConvertor\obj\Debug\Task09CurrencyConvertor.Properties.Resources.resources
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Task09CurrencyConvertor\obj\Debug\Task09CurrencyConvertor.csproj.GenerateResource.Cache
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Task09CurrencyConvertor\obj\Debug\Task09CurrencyConvertor.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Task09CurrencyConvertor\obj\Debug\Task09CurrencyConvertor.pdb

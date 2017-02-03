@@ -1,0 +1,6 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics05Loops\Task16.HalfSumElement\bin\Debug\Task16.HalfSumElement.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics05Loops\Task16.HalfSumElement\bin\Debug\Task16.HalfSumElement.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics05Loops\Task16.HalfSumElement\bin\Debug\Task16.HalfSumElement.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics05Loops\Task16.HalfSumElement\obj\Debug\Task16.HalfSumElement.csprojResolveAssemblyReference.cache
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics05Loops\Task16.HalfSumElement\obj\Debug\Task16.HalfSumElement.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics05Loops\Task16.HalfSumElement\obj\Debug\Task16.HalfSumElement.pdb

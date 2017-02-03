@@ -1,0 +1,6 @@
+C:\Users\Andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleCalculation\Problem12RadiansToDegrees\bin\Debug\Problem12RadiansToDegrees.exe.config
+C:\Users\Andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleCalculation\Problem12RadiansToDegrees\bin\Debug\Problem12RadiansToDegrees.exe
+C:\Users\Andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleCalculation\Problem12RadiansToDegrees\bin\Debug\Problem12RadiansToDegrees.pdb
+C:\Users\Andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleCalculation\Problem12RadiansToDegrees\obj\Debug\Problem12RadiansToDegrees.csprojResolveAssemblyReference.cache
+C:\Users\Andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleCalculation\Problem12RadiansToDegrees\obj\Debug\Problem12RadiansToDegrees.exe
+C:\Users\Andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleCalculation\Problem12RadiansToDegrees\obj\Debug\Problem12RadiansToDegrees.pdb

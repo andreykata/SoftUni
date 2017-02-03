@@ -1,0 +1,5 @@
+C:\Users\Andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Problem15Time\bin\Debug\Problem15Time.exe.config
+C:\Users\Andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Problem15Time\bin\Debug\Problem15Time.exe
+C:\Users\Andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Problem15Time\bin\Debug\Problem15Time.pdb
+C:\Users\Andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Problem15Time\obj\Debug\Problem15Time.exe
+C:\Users\Andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Problem15Time\obj\Debug\Problem15Time.pdb

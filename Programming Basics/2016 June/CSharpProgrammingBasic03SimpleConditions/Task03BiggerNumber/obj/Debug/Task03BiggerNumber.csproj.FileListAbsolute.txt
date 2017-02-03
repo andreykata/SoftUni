@@ -1,0 +1,6 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Task03BiggerNumber\bin\Debug\Task03BiggerNumber.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Task03BiggerNumber\bin\Debug\Task03BiggerNumber.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Task03BiggerNumber\bin\Debug\Task03BiggerNumber.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Task03BiggerNumber\obj\Debug\Task03BiggerNumber.csprojResolveAssemblyReference.cache
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Task03BiggerNumber\obj\Debug\Task03BiggerNumber.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Task03BiggerNumber\obj\Debug\Task03BiggerNumber.pdb

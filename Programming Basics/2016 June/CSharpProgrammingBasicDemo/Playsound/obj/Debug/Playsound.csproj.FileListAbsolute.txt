@@ -1,0 +1,6 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasicDemo\Playsound\bin\Debug\Playsound.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasicDemo\Playsound\bin\Debug\Playsound.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasicDemo\Playsound\bin\Debug\Playsound.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasicDemo\Playsound\obj\Debug\Playsound.csprojResolveAssemblyReference.cache
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasicDemo\Playsound\obj\Debug\Playsound.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasicDemo\Playsound\obj\Debug\Playsound.pdb

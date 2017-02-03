@@ -1,6 +1,0 @@
-c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics01FirstSteps\01.Demo\bin\Debug\01.Demo.exe.config
-c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics01FirstSteps\01.Demo\bin\Debug\01.Demo.exe
-c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics01FirstSteps\01.Demo\bin\Debug\01.Demo.pdb
-c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics01FirstSteps\01.Demo\obj\Debug\01.Demo.csprojResolveAssemblyReference.cache
-c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics01FirstSteps\01.Demo\obj\Debug\01.Demo.exe
-c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics01FirstSteps\01.Demo\obj\Debug\01.Demo.pdb

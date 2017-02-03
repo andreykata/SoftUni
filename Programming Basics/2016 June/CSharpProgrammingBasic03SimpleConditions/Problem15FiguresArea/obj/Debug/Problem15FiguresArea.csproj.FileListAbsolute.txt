@@ -1,0 +1,5 @@
+C:\Users\Andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Problem15FiguresArea\bin\Debug\Problem15FiguresArea.exe.config
+C:\Users\Andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Problem15FiguresArea\bin\Debug\Problem15FiguresArea.exe
+C:\Users\Andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Problem15FiguresArea\bin\Debug\Problem15FiguresArea.pdb
+C:\Users\Andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Problem15FiguresArea\obj\Debug\Problem15FiguresArea.exe
+C:\Users\Andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Problem15FiguresArea\obj\Debug\Problem15FiguresArea.pdb

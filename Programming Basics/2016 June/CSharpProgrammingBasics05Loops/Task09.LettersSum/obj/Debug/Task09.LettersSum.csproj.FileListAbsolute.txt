@@ -1,0 +1,5 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics05Loops\Task09.LettersSum\bin\Debug\Task09.LettersSum.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics05Loops\Task09.LettersSum\bin\Debug\Task09.LettersSum.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics05Loops\Task09.LettersSum\bin\Debug\Task09.LettersSum.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics05Loops\Task09.LettersSum\obj\Debug\Task09.LettersSum.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics05Loops\Task09.LettersSum\obj\Debug\Task09.LettersSum.pdb

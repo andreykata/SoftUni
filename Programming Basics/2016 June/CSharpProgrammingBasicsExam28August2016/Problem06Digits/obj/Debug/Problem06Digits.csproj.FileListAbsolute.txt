@@ -1,0 +1,5 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasicsExam28August2016\Problem06Digits\bin\Debug\Problem06Digits.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasicsExam28August2016\Problem06Digits\bin\Debug\Problem06Digits.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasicsExam28August2016\Problem06Digits\bin\Debug\Problem06Digits.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasicsExam28August2016\Problem06Digits\obj\Debug\Problem06Digits.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasicsExam28August2016\Problem06Digits\obj\Debug\Problem06Digits.pdb

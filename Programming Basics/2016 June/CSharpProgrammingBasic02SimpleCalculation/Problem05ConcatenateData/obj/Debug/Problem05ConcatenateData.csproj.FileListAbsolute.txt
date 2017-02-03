@@ -1,0 +1,6 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleCalculation\Problem05ConcatenateData\bin\Debug\Problem05ConcatenateData.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleCalculation\Problem05ConcatenateData\bin\Debug\Problem05ConcatenateData.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleCalculation\Problem05ConcatenateData\bin\Debug\Problem05ConcatenateData.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleCalculation\Problem05ConcatenateData\obj\Debug\Problem05ConcatenateData.csprojResolveAssemblyReference.cache
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleCalculation\Problem05ConcatenateData\obj\Debug\Problem05ConcatenateData.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleCalculation\Problem05ConcatenateData\obj\Debug\Problem05ConcatenateData.pdb

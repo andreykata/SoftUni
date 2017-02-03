@@ -1,0 +1,6 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics08ExamPreparation\Problem04.PointInFigure\bin\Debug\Problem04.PointInFigure.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics08ExamPreparation\Problem04.PointInFigure\bin\Debug\Problem04.PointInFigure.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics08ExamPreparation\Problem04.PointInFigure\bin\Debug\Problem04.PointInFigure.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics08ExamPreparation\Problem04.PointInFigure\obj\Debug\Problem04.PointInFigure.csprojResolveAssemblyReference.cache
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics08ExamPreparation\Problem04.PointInFigure\obj\Debug\Problem04.PointInFigure.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics08ExamPreparation\Problem04.PointInFigure\obj\Debug\Problem04.PointInFigure.pdb

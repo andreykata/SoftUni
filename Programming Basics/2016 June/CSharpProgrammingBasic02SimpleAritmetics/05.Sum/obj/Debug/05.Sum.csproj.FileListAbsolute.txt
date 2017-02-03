@@ -1,0 +1,6 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleAritmetics\05.Sum\bin\Debug\05.Sum.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleAritmetics\05.Sum\bin\Debug\05.Sum.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleAritmetics\05.Sum\bin\Debug\05.Sum.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleAritmetics\05.Sum\obj\Debug\05.Sum.csprojResolveAssemblyReference.cache
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleAritmetics\05.Sum\obj\Debug\05.Sum.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleAritmetics\05.Sum\obj\Debug\05.Sum.pdb

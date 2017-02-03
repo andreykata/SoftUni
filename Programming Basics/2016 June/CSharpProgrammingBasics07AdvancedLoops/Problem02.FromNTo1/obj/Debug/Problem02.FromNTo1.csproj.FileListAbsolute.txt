@@ -1,0 +1,6 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem02.FromNTo1\bin\Debug\Problem02.FromNTo1.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem02.FromNTo1\bin\Debug\Problem02.FromNTo1.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem02.FromNTo1\bin\Debug\Problem02.FromNTo1.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem02.FromNTo1\obj\Debug\Problem02.FromNTo1.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem02.FromNTo1\obj\Debug\Problem02.FromNTo1.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem02.FromNTo1\obj\Debug\Problem02.FromNTo1.csprojResolveAssemblyReference.cache

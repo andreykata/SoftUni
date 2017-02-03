@@ -1,0 +1,6 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic06DrawingWithLoops\Problem07.ChristmasTree\bin\Debug\Problem07.ChristmasTree.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic06DrawingWithLoops\Problem07.ChristmasTree\bin\Debug\Problem07.ChristmasTree.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic06DrawingWithLoops\Problem07.ChristmasTree\bin\Debug\Problem07.ChristmasTree.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic06DrawingWithLoops\Problem07.ChristmasTree\obj\Debug\Problem07.ChristmasTree.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic06DrawingWithLoops\Problem07.ChristmasTree\obj\Debug\Problem07.ChristmasTree.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic06DrawingWithLoops\Problem07.ChristmasTree\obj\Debug\Problem07.ChristmasTree.csprojResolveAssemblyReference.cache

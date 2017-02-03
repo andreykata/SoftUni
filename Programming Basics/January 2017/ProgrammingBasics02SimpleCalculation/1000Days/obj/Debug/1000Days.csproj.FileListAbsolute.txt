@@ -1,6 +1,0 @@
-c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics02SimpleCalculation\1000Days\bin\Debug\1000Days.exe.config
-c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics02SimpleCalculation\1000Days\bin\Debug\1000Days.exe
-c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics02SimpleCalculation\1000Days\bin\Debug\1000Days.pdb
-c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics02SimpleCalculation\1000Days\obj\Debug\1000Days.csprojResolveAssemblyReference.cache
-c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics02SimpleCalculation\1000Days\obj\Debug\1000Days.exe
-c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics02SimpleCalculation\1000Days\obj\Debug\1000Days.pdb

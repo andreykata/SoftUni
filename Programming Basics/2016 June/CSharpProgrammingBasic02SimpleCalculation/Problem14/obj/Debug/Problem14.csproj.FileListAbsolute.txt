@@ -1,0 +1,5 @@
+C:\Users\Andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleCalculation\Problem14\bin\Debug\Problem14.exe.config
+C:\Users\Andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleCalculation\Problem14\bin\Debug\Problem14.exe
+C:\Users\Andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleCalculation\Problem14\bin\Debug\Problem14.pdb
+C:\Users\Andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleCalculation\Problem14\obj\Debug\Problem14.exe
+C:\Users\Andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleCalculation\Problem14\obj\Debug\Problem14.pdb

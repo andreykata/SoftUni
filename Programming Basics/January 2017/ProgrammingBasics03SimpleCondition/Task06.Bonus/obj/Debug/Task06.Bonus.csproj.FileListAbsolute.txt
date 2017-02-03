@@ -1,5 +1,0 @@
-C:\Users\Andrey\documents\visual studio 2015\Projects\ProgrammingBasic03SimpleCondition\Task06.Bonus\bin\Debug\Task06.Bonus.exe.config
-C:\Users\Andrey\documents\visual studio 2015\Projects\ProgrammingBasic03SimpleCondition\Task06.Bonus\bin\Debug\Task06.Bonus.exe
-C:\Users\Andrey\documents\visual studio 2015\Projects\ProgrammingBasic03SimpleCondition\Task06.Bonus\bin\Debug\Task06.Bonus.pdb
-C:\Users\Andrey\documents\visual studio 2015\Projects\ProgrammingBasic03SimpleCondition\Task06.Bonus\obj\Debug\Task06.Bonus.exe
-C:\Users\Andrey\documents\visual studio 2015\Projects\ProgrammingBasic03SimpleCondition\Task06.Bonus\obj\Debug\Task06.Bonus.pdb

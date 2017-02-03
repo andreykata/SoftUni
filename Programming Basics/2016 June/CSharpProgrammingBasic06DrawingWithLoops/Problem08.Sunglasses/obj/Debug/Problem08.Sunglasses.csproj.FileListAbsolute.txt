@@ -1,0 +1,5 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic06DrawingWithLoops\Problem08.Sunglasses\bin\Debug\Problem08.Sunglasses.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic06DrawingWithLoops\Problem08.Sunglasses\bin\Debug\Problem08.Sunglasses.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic06DrawingWithLoops\Problem08.Sunglasses\bin\Debug\Problem08.Sunglasses.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic06DrawingWithLoops\Problem08.Sunglasses\obj\Debug\Problem08.Sunglasses.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic06DrawingWithLoops\Problem08.Sunglasses\obj\Debug\Problem08.Sunglasses.pdb

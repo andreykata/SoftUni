@@ -1,0 +1,5 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics05Loops\Task03.Letters\bin\Debug\Task03.Letters.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics05Loops\Task03.Letters\bin\Debug\Task03.Letters.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics05Loops\Task03.Letters\bin\Debug\Task03.Letters.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics05Loops\Task03.Letters\obj\Debug\Task03.Letters.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics05Loops\Task03.Letters\obj\Debug\Task03.Letters.pdb

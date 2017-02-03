@@ -1,0 +1,6 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleAritmetics\04.FullName\bin\Debug\04.FullName.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleAritmetics\04.FullName\bin\Debug\04.FullName.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleAritmetics\04.FullName\bin\Debug\04.FullName.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleAritmetics\04.FullName\obj\Debug\04.FullName.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleAritmetics\04.FullName\obj\Debug\04.FullName.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleAritmetics\04.FullName\obj\Debug\04.FullName.csprojResolveAssemblyReference.cache

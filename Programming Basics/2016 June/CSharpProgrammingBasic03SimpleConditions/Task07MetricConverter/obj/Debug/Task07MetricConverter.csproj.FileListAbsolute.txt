@@ -1,0 +1,6 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Task07MetricConverter\bin\Debug\Task07MetricConverter.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Task07MetricConverter\bin\Debug\Task07MetricConverter.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Task07MetricConverter\bin\Debug\Task07MetricConverter.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Task07MetricConverter\obj\Debug\Task07MetricConverter.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Task07MetricConverter\obj\Debug\Task07MetricConverter.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Task07MetricConverter\obj\Debug\Task07MetricConverter.csprojResolveAssemblyReference.cache

@@ -1,5 +1,0 @@
-c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics04AdvancedConditions\Task05.InRange\bin\Debug\Task05.InRange.exe.config
-c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics04AdvancedConditions\Task05.InRange\bin\Debug\Task05.InRange.exe
-c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics04AdvancedConditions\Task05.InRange\bin\Debug\Task05.InRange.pdb
-c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics04AdvancedConditions\Task05.InRange\obj\Debug\Task05.InRange.exe
-c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics04AdvancedConditions\Task05.InRange\obj\Debug\Task05.InRange.pdb

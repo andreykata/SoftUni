@@ -1,0 +1,6 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\MetricConvertor2\bin\Debug\MetricConvertor2.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\MetricConvertor2\bin\Debug\MetricConvertor2.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\MetricConvertor2\bin\Debug\MetricConvertor2.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\MetricConvertor2\obj\Debug\MetricConvertor2.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\MetricConvertor2\obj\Debug\MetricConvertor2.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\MetricConvertor2\obj\Debug\MetricConvertor2.csprojResolveAssemblyReference.cache

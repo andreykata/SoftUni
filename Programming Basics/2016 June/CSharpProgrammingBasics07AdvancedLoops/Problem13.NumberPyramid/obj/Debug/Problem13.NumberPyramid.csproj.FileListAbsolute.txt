@@ -1,0 +1,5 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem13.NumberPyramid\bin\Debug\Problem13.NumberPyramid.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem13.NumberPyramid\bin\Debug\Problem13.NumberPyramid.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem13.NumberPyramid\bin\Debug\Problem13.NumberPyramid.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem13.NumberPyramid\obj\Debug\Problem13.NumberPyramid.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem13.NumberPyramid\obj\Debug\Problem13.NumberPyramid.pdb

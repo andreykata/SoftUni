@@ -1,0 +1,6 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleCalculation\Problem14CurrencyConverter\bin\Debug\Problem14CurrencyConverter.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleCalculation\Problem14CurrencyConverter\bin\Debug\Problem14CurrencyConverter.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleCalculation\Problem14CurrencyConverter\bin\Debug\Problem14CurrencyConverter.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleCalculation\Problem14CurrencyConverter\obj\Debug\Problem14CurrencyConverter.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleCalculation\Problem14CurrencyConverter\obj\Debug\Problem14CurrencyConverter.pdb
+C:\Users\Andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleCalculation\Problem14CurrencyConverter\obj\Debug\Problem14CurrencyConverter.csprojResolveAssemblyReference.cache

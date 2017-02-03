@@ -1,0 +1,5 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics05Loops\Task05.MaxNumber\bin\Debug\Task05.MaxNumber.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics05Loops\Task05.MaxNumber\bin\Debug\Task05.MaxNumber.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics05Loops\Task05.MaxNumber\bin\Debug\Task05.MaxNumber.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics05Loops\Task05.MaxNumber\obj\Debug\Task05.MaxNumber.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics05Loops\Task05.MaxNumber\obj\Debug\Task05.MaxNumber.pdb

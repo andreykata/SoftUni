@@ -1,0 +1,6 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics08ExamPreparation\Problem07.SumsStep3\bin\Debug\Problem07.SumsStep3.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics08ExamPreparation\Problem07.SumsStep3\bin\Debug\Problem07.SumsStep3.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics08ExamPreparation\Problem07.SumsStep3\bin\Debug\Problem07.SumsStep3.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics08ExamPreparation\Problem07.SumsStep3\obj\Debug\Problem07.SumsStep3.csprojResolveAssemblyReference.cache
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics08ExamPreparation\Problem07.SumsStep3\obj\Debug\Problem07.SumsStep3.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics08ExamPreparation\Problem07.SumsStep3\obj\Debug\Problem07.SumsStep3.pdb

@@ -1,0 +1,10 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics05Loops\Turtle\bin\Debug\Turtle.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics05Loops\Turtle\bin\Debug\Turtle.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics05Loops\Turtle\bin\Debug\Turtle.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics05Loops\Turtle\bin\Debug\Nakov.TurtleGraphics.dll
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics05Loops\Turtle\obj\Debug\Turtle.csprojResolveAssemblyReference.cache
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics05Loops\Turtle\obj\Debug\Turtle.Form1.resources
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics05Loops\Turtle\obj\Debug\Turtle.Properties.Resources.resources
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics05Loops\Turtle\obj\Debug\Turtle.csproj.GenerateResource.Cache
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics05Loops\Turtle\obj\Debug\Turtle.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics05Loops\Turtle\obj\Debug\Turtle.pdb

@@ -1,0 +1,6 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics05Loops\Task07.LeftRightSum\bin\Debug\Task07.LeftRightSum.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics05Loops\Task07.LeftRightSum\bin\Debug\Task07.LeftRightSum.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics05Loops\Task07.LeftRightSum\bin\Debug\Task07.LeftRightSum.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics05Loops\Task07.LeftRightSum\obj\Debug\Task07.LeftRightSum.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics05Loops\Task07.LeftRightSum\obj\Debug\Task07.LeftRightSum.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics05Loops\Task07.LeftRightSum\obj\Debug\Task07.LeftRightSum.csprojResolveAssemblyReference.cache

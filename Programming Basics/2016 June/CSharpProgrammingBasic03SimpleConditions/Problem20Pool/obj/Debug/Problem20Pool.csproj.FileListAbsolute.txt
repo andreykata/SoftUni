@@ -1,0 +1,5 @@
+C:\Users\Andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Problem20Pool\bin\Debug\Problem20Pool.exe.config
+C:\Users\Andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Problem20Pool\bin\Debug\Problem20Pool.exe
+C:\Users\Andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Problem20Pool\bin\Debug\Problem20Pool.pdb
+C:\Users\Andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Problem20Pool\obj\Debug\Problem20Pool.exe
+C:\Users\Andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Problem20Pool\obj\Debug\Problem20Pool.pdb

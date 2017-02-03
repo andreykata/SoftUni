@@ -1,0 +1,6 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleAritmetics\01.SquareArea\bin\Debug\01.SquareArea.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleAritmetics\01.SquareArea\bin\Debug\01.SquareArea.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleAritmetics\01.SquareArea\bin\Debug\01.SquareArea.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleAritmetics\01.SquareArea\obj\Debug\01.SquareArea.csprojResolveAssemblyReference.cache
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleAritmetics\01.SquareArea\obj\Debug\01.SquareArea.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleAritmetics\01.SquareArea\obj\Debug\01.SquareArea.pdb

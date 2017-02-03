@@ -1,0 +1,6 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Problem14SpeedInfo\bin\Debug\Problem14SpeedInfo.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Problem14SpeedInfo\bin\Debug\Problem14SpeedInfo.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Problem14SpeedInfo\bin\Debug\Problem14SpeedInfo.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Problem14SpeedInfo\obj\Debug\Problem14SpeedInfo.csprojResolveAssemblyReference.cache
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Problem14SpeedInfo\obj\Debug\Problem14SpeedInfo.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Problem14SpeedInfo\obj\Debug\Problem14SpeedInfo.pdb

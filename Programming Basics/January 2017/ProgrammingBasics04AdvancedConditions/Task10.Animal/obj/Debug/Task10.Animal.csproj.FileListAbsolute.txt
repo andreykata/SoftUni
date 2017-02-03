@@ -1,5 +1,0 @@
-c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics04AdvancedConditions\Task10.Animal\bin\Debug\Task10.Animal.exe.config
-c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics04AdvancedConditions\Task10.Animal\bin\Debug\Task10.Animal.exe
-c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics04AdvancedConditions\Task10.Animal\bin\Debug\Task10.Animal.pdb
-c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics04AdvancedConditions\Task10.Animal\obj\Debug\Task10.Animal.exe
-c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics04AdvancedConditions\Task10.Animal\obj\Debug\Task10.Animal.pdb

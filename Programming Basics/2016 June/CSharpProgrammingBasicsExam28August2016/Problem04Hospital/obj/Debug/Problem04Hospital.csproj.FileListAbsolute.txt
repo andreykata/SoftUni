@@ -1,0 +1,5 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasicsExam28August2016\Problem04Hospital\bin\Debug\Problem04Hospital.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasicsExam28August2016\Problem04Hospital\bin\Debug\Problem04Hospital.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasicsExam28August2016\Problem04Hospital\bin\Debug\Problem04Hospital.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasicsExam28August2016\Problem04Hospital\obj\Debug\Problem04Hospital.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasicsExam28August2016\Problem04Hospital\obj\Debug\Problem04Hospital.pdb

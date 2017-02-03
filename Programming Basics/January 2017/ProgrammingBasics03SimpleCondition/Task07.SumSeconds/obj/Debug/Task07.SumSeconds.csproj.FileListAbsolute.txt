@@ -1,5 +1,0 @@
-C:\Users\Andrey\documents\visual studio 2015\Projects\ProgrammingBasic03SimpleCondition\Task07.SumSeconds\bin\Debug\Task07.SumSeconds.exe.config
-C:\Users\Andrey\documents\visual studio 2015\Projects\ProgrammingBasic03SimpleCondition\Task07.SumSeconds\bin\Debug\Task07.SumSeconds.exe
-C:\Users\Andrey\documents\visual studio 2015\Projects\ProgrammingBasic03SimpleCondition\Task07.SumSeconds\bin\Debug\Task07.SumSeconds.pdb
-C:\Users\Andrey\documents\visual studio 2015\Projects\ProgrammingBasic03SimpleCondition\Task07.SumSeconds\obj\Debug\Task07.SumSeconds.exe
-C:\Users\Andrey\documents\visual studio 2015\Projects\ProgrammingBasic03SimpleCondition\Task07.SumSeconds\obj\Debug\Task07.SumSeconds.pdb

@@ -1,0 +1,6 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem09.SumDigits\bin\Debug\Problem09.SumDigits.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem09.SumDigits\bin\Debug\Problem09.SumDigits.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem09.SumDigits\bin\Debug\Problem09.SumDigits.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem09.SumDigits\obj\Debug\Problem09.SumDigits.csprojResolveAssemblyReference.cache
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem09.SumDigits\obj\Debug\Problem09.SumDigits.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics07AdvancedLoops\Problem09.SumDigits\obj\Debug\Problem09.SumDigits.pdb

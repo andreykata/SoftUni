@@ -1,0 +1,6 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic06DrawingWithLoops\Problem06.RhombusOfStarts\bin\Debug\Problem06.RhombusOfStarts.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic06DrawingWithLoops\Problem06.RhombusOfStarts\bin\Debug\Problem06.RhombusOfStarts.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic06DrawingWithLoops\Problem06.RhombusOfStarts\bin\Debug\Problem06.RhombusOfStarts.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic06DrawingWithLoops\Problem06.RhombusOfStarts\obj\Debug\Problem06.RhombusOfStarts.csprojResolveAssemblyReference.cache
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic06DrawingWithLoops\Problem06.RhombusOfStarts\obj\Debug\Problem06.RhombusOfStarts.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic06DrawingWithLoops\Problem06.RhombusOfStarts\obj\Debug\Problem06.RhombusOfStarts.pdb

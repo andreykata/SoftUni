@@ -1,0 +1,5 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleAritmetics\02.IncesToCm\bin\Debug\02.IncesToCm.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleAritmetics\02.IncesToCm\bin\Debug\02.IncesToCm.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleAritmetics\02.IncesToCm\bin\Debug\02.IncesToCm.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleAritmetics\02.IncesToCm\obj\Debug\02.IncesToCm.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleAritmetics\02.IncesToCm\obj\Debug\02.IncesToCm.pdb

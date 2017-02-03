@@ -1,0 +1,6 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleCalculation\Problem06TrapeziodArea\bin\Debug\Problem06TrapeziodArea.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleCalculation\Problem06TrapeziodArea\bin\Debug\Problem06TrapeziodArea.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleCalculation\Problem06TrapeziodArea\bin\Debug\Problem06TrapeziodArea.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleCalculation\Problem06TrapeziodArea\obj\Debug\Problem06TrapeziodArea.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleCalculation\Problem06TrapeziodArea\obj\Debug\Problem06TrapeziodArea.pdb
+C:\Users\Andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleCalculation\Problem06TrapeziodArea\obj\Debug\Problem06TrapeziodArea.csprojResolveAssemblyReference.cache

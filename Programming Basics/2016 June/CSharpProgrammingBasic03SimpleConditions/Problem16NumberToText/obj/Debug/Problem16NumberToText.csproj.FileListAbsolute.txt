@@ -1,0 +1,6 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Problem16NumberToText\bin\Debug\Problem16NumberToText.exe.config
+C:\Users\Andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Problem16NumberToText\bin\Debug\Problem16NumberToText.exe
+C:\Users\Andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Problem16NumberToText\bin\Debug\Problem16NumberToText.pdb
+C:\Users\Andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Problem16NumberToText\obj\Debug\Problem16NumberToText.csprojResolveAssemblyReference.cache
+C:\Users\Andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Problem16NumberToText\obj\Debug\Problem16NumberToText.exe
+C:\Users\Andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Problem16NumberToText\obj\Debug\Problem16NumberToText.pdb

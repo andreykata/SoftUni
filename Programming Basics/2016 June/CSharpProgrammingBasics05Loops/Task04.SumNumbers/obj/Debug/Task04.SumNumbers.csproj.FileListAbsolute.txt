@@ -1,0 +1,5 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics05Loops\Task04.SumNumbers\bin\Debug\Task04.SumNumbers.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics05Loops\Task04.SumNumbers\bin\Debug\Task04.SumNumbers.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics05Loops\Task04.SumNumbers\bin\Debug\Task04.SumNumbers.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics05Loops\Task04.SumNumbers\obj\Debug\Task04.SumNumbers.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics05Loops\Task04.SumNumbers\obj\Debug\Task04.SumNumbers.pdb

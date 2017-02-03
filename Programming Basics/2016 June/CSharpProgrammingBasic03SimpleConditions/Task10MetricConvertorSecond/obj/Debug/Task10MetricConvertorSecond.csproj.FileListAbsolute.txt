@@ -1,0 +1,1 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic03SimpleConditions\Task10MetricConvertorSecond\bin\Debug\Task10MetricConvertorSecond.exe.config

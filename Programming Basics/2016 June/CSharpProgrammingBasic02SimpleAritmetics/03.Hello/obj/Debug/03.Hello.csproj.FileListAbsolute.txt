@@ -1,0 +1,5 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleAritmetics\03.Hello\bin\Debug\03.Hello.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleAritmetics\03.Hello\bin\Debug\03.Hello.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleAritmetics\03.Hello\bin\Debug\03.Hello.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleAritmetics\03.Hello\obj\Debug\03.Hello.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleAritmetics\03.Hello\obj\Debug\03.Hello.pdb

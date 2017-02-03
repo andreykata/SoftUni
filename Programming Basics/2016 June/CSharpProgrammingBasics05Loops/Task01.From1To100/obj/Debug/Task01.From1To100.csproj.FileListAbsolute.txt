@@ -1,0 +1,6 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics05Loops\Task01.From1To100\bin\Debug\Task01.From1To100.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics05Loops\Task01.From1To100\bin\Debug\Task01.From1To100.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics05Loops\Task01.From1To100\bin\Debug\Task01.From1To100.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics05Loops\Task01.From1To100\obj\Debug\Task01.From1To100.csprojResolveAssemblyReference.cache
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics05Loops\Task01.From1To100\obj\Debug\Task01.From1To100.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasics05Loops\Task01.From1To100\obj\Debug\Task01.From1To100.pdb

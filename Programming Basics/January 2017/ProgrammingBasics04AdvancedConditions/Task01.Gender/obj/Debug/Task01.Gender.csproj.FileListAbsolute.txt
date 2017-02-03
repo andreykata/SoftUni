@@ -1,6 +1,0 @@
-c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics04AdvancedConditions\Task01.Gender\bin\Debug\Task01.Gender.exe.config
-c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics04AdvancedConditions\Task01.Gender\bin\Debug\Task01.Gender.exe
-c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics04AdvancedConditions\Task01.Gender\bin\Debug\Task01.Gender.pdb
-c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics04AdvancedConditions\Task01.Gender\obj\Debug\Task01.Gender.csprojResolveAssemblyReference.cache
-c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics04AdvancedConditions\Task01.Gender\obj\Debug\Task01.Gender.exe
-c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics04AdvancedConditions\Task01.Gender\obj\Debug\Task01.Gender.pdb

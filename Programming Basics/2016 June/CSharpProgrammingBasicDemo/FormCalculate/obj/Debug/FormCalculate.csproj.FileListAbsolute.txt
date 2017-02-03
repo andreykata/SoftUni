@@ -1,0 +1,9 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasicDemo\FormCalculate\bin\Debug\FormCalculate.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasicDemo\FormCalculate\bin\Debug\FormCalculate.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasicDemo\FormCalculate\bin\Debug\FormCalculate.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasicDemo\FormCalculate\obj\Debug\FormCalculate.csprojResolveAssemblyReference.cache
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasicDemo\FormCalculate\obj\Debug\FormCalculate.Form1.resources
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasicDemo\FormCalculate\obj\Debug\FormCalculate.Properties.Resources.resources
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasicDemo\FormCalculate\obj\Debug\FormCalculate.csproj.GenerateResource.Cache
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasicDemo\FormCalculate\obj\Debug\FormCalculate.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasicDemo\FormCalculate\obj\Debug\FormCalculate.pdb

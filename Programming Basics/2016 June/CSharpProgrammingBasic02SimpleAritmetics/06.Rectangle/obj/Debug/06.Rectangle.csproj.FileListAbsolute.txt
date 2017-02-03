@@ -1,0 +1,6 @@
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleAritmetics\06.Rectangle\bin\Debug\06.Rectangle.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleAritmetics\06.Rectangle\bin\Debug\06.Rectangle.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleAritmetics\06.Rectangle\bin\Debug\06.Rectangle.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleAritmetics\06.Rectangle\obj\Debug\06.Rectangle.exe
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleAritmetics\06.Rectangle\obj\Debug\06.Rectangle.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic02SimpleAritmetics\06.Rectangle\obj\Debug\06.Rectangle.csprojResolveAssemblyReference.cache
