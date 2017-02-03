@@ -1,0 +1,5 @@
+C:\Users\Andrey\documents\visual studio 2015\Projects\ProgrammingBasic03SimpleCondition\Task04.CompareNumbers\bin\Debug\Task04.CompareNumbers.exe.config
+C:\Users\Andrey\documents\visual studio 2015\Projects\ProgrammingBasic03SimpleCondition\Task04.CompareNumbers\bin\Debug\Task04.CompareNumbers.exe
+C:\Users\Andrey\documents\visual studio 2015\Projects\ProgrammingBasic03SimpleCondition\Task04.CompareNumbers\bin\Debug\Task04.CompareNumbers.pdb
+C:\Users\Andrey\documents\visual studio 2015\Projects\ProgrammingBasic03SimpleCondition\Task04.CompareNumbers\obj\Debug\Task04.CompareNumbers.exe
+C:\Users\Andrey\documents\visual studio 2015\Projects\ProgrammingBasic03SimpleCondition\Task04.CompareNumbers\obj\Debug\Task04.CompareNumbers.pdb

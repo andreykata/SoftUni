@@ -1,0 +1,6 @@
+C:\Users\Andrey\documents\visual studio 2015\Projects\ProgrammingBasic03SimpleCondition\Demo\bin\Debug\Demo.exe.config
+C:\Users\Andrey\documents\visual studio 2015\Projects\ProgrammingBasic03SimpleCondition\Demo\bin\Debug\Demo.exe
+C:\Users\Andrey\documents\visual studio 2015\Projects\ProgrammingBasic03SimpleCondition\Demo\bin\Debug\Demo.pdb
+C:\Users\Andrey\documents\visual studio 2015\Projects\ProgrammingBasic03SimpleCondition\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Users\Andrey\documents\visual studio 2015\Projects\ProgrammingBasic03SimpleCondition\Demo\obj\Debug\Demo.exe
+C:\Users\Andrey\documents\visual studio 2015\Projects\ProgrammingBasic03SimpleCondition\Demo\obj\Debug\Demo.pdb
