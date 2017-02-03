@@ -1,0 +1,5 @@
+c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics04AdvancedConditions\Task03.Rectangle\bin\Debug\Task03.Rectangle.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics04AdvancedConditions\Task03.Rectangle\bin\Debug\Task03.Rectangle.exe
+c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics04AdvancedConditions\Task03.Rectangle\bin\Debug\Task03.Rectangle.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics04AdvancedConditions\Task03.Rectangle\obj\Debug\Task03.Rectangle.exe
+c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics04AdvancedConditions\Task03.Rectangle\obj\Debug\Task03.Rectangle.pdb

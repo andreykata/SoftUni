@@ -1,0 +1,5 @@
+c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics02SimpleCalculation\SimpleCalculation\bin\Debug\SimpleCalculation.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics02SimpleCalculation\SimpleCalculation\bin\Debug\SimpleCalculation.exe
+c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics02SimpleCalculation\SimpleCalculation\bin\Debug\SimpleCalculation.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics02SimpleCalculation\SimpleCalculation\obj\Debug\SimpleCalculation.exe
+c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics02SimpleCalculation\SimpleCalculation\obj\Debug\SimpleCalculation.pdb

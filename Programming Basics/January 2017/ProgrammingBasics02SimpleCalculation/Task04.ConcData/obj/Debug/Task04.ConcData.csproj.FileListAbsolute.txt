@@ -1,0 +1,6 @@
+c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics02SimpleCalculation\Task04.ConcData\bin\Debug\Task04.ConcData.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics02SimpleCalculation\Task04.ConcData\bin\Debug\Task04.ConcData.exe
+c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics02SimpleCalculation\Task04.ConcData\bin\Debug\Task04.ConcData.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics02SimpleCalculation\Task04.ConcData\obj\Debug\Task04.ConcData.exe
+c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics02SimpleCalculation\Task04.ConcData\obj\Debug\Task04.ConcData.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics02SimpleCalculation\Task04.ConcData\obj\Debug\Task04.ConcData.csprojResolveAssemblyReference.cache

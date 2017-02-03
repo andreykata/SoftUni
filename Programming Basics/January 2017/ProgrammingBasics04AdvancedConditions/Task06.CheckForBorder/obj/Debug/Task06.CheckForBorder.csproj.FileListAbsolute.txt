@@ -1,0 +1,5 @@
+c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics04AdvancedConditions\Task06.CheckForBorder\bin\Debug\Task06.CheckForBorder.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics04AdvancedConditions\Task06.CheckForBorder\bin\Debug\Task06.CheckForBorder.exe
+c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics04AdvancedConditions\Task06.CheckForBorder\bin\Debug\Task06.CheckForBorder.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics04AdvancedConditions\Task06.CheckForBorder\obj\Debug\Task06.CheckForBorder.exe
+c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics04AdvancedConditions\Task06.CheckForBorder\obj\Debug\Task06.CheckForBorder.pdb

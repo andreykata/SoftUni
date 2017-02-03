@@ -1,0 +1,5 @@
+c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics04AdvancedConditions\Task08.TradeComissions\bin\Debug\Task08.TradeComissions.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics04AdvancedConditions\Task08.TradeComissions\bin\Debug\Task08.TradeComissions.exe
+c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics04AdvancedConditions\Task08.TradeComissions\bin\Debug\Task08.TradeComissions.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics04AdvancedConditions\Task08.TradeComissions\obj\Debug\Task08.TradeComissions.exe
+c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics04AdvancedConditions\Task08.TradeComissions\obj\Debug\Task08.TradeComissions.pdb

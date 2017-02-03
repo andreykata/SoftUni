@@ -1,0 +1,5 @@
+c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics02SimpleCalculation\Task07.Rectangle\bin\Debug\Task07.Rectangle.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics02SimpleCalculation\Task07.Rectangle\bin\Debug\Task07.Rectangle.exe
+c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics02SimpleCalculation\Task07.Rectangle\bin\Debug\Task07.Rectangle.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics02SimpleCalculation\Task07.Rectangle\obj\Debug\Task07.Rectangle.exe
+c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics02SimpleCalculation\Task07.Rectangle\obj\Debug\Task07.Rectangle.pdb

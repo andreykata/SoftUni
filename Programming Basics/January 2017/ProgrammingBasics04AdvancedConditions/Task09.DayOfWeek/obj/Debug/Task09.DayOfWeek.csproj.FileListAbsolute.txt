@@ -1,0 +1,5 @@
+c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics04AdvancedConditions\Task09.DayOfWeek\bin\Debug\Task09.DayOfWeek.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics04AdvancedConditions\Task09.DayOfWeek\bin\Debug\Task09.DayOfWeek.exe
+c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics04AdvancedConditions\Task09.DayOfWeek\bin\Debug\Task09.DayOfWeek.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics04AdvancedConditions\Task09.DayOfWeek\obj\Debug\Task09.DayOfWeek.exe
+c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics04AdvancedConditions\Task09.DayOfWeek\obj\Debug\Task09.DayOfWeek.pdb

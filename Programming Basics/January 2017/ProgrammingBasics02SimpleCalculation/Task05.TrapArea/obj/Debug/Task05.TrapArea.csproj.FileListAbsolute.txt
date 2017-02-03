@@ -1,0 +1,5 @@
+c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics02SimpleCalculation\Task05.TrapArea\bin\Debug\Task05.TrapArea.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics02SimpleCalculation\Task05.TrapArea\bin\Debug\Task05.TrapArea.exe
+c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics02SimpleCalculation\Task05.TrapArea\bin\Debug\Task05.TrapArea.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics02SimpleCalculation\Task05.TrapArea\obj\Debug\Task05.TrapArea.exe
+c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics02SimpleCalculation\Task05.TrapArea\obj\Debug\Task05.TrapArea.pdb

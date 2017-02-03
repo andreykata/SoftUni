@@ -1,0 +1,5 @@
+c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics02SimpleCalculation\Task02InchesToCm\bin\Debug\Task02InchesToCm.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics02SimpleCalculation\Task02InchesToCm\bin\Debug\Task02InchesToCm.exe
+c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics02SimpleCalculation\Task02InchesToCm\bin\Debug\Task02InchesToCm.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics02SimpleCalculation\Task02InchesToCm\obj\Debug\Task02InchesToCm.exe
+c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics02SimpleCalculation\Task02InchesToCm\obj\Debug\Task02InchesToCm.pdb

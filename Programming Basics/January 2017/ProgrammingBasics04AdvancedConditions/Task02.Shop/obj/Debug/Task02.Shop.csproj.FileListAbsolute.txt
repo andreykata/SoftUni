@@ -1,0 +1,5 @@
+c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics04AdvancedConditions\Task02.Shop\bin\Debug\Task02.Shop.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics04AdvancedConditions\Task02.Shop\bin\Debug\Task02.Shop.exe
+c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics04AdvancedConditions\Task02.Shop\bin\Debug\Task02.Shop.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics04AdvancedConditions\Task02.Shop\obj\Debug\Task02.Shop.exe
+c:\users\andrey\documents\visual studio 2015\Projects\ProgrammingBasics04AdvancedConditions\Task02.Shop\obj\Debug\Task02.Shop.pdb
