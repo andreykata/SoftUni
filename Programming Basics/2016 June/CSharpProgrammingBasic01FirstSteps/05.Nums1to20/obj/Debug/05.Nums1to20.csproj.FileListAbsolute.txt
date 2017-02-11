@@ -1,5 +1,0 @@
-c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic01FirstSteps\05.Nums1to20\bin\Debug\05.Nums1to20.exe.config
-c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic01FirstSteps\05.Nums1to20\bin\Debug\05.Nums1to20.exe
-c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic01FirstSteps\05.Nums1to20\bin\Debug\05.Nums1to20.pdb
-c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic01FirstSteps\05.Nums1to20\obj\Debug\05.Nums1to20.exe
-c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic01FirstSteps\05.Nums1to20\obj\Debug\05.Nums1to20.pdb

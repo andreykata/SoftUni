@@ -1,6 +1,0 @@
-c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic01FirstSteps\07.RectangleArea\bin\Debug\07.RectangleArea.exe.config
-c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic01FirstSteps\07.RectangleArea\bin\Debug\07.RectangleArea.exe
-c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic01FirstSteps\07.RectangleArea\bin\Debug\07.RectangleArea.pdb
-c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic01FirstSteps\07.RectangleArea\obj\Debug\07.RectangleArea.csprojResolveAssemblyReference.cache
-c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic01FirstSteps\07.RectangleArea\obj\Debug\07.RectangleArea.exe
-c:\users\andrey\documents\visual studio 2015\Projects\CSharpProgrammingBasic01FirstSteps\07.RectangleArea\obj\Debug\07.RectangleArea.pdb
