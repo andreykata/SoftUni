@@ -1,0 +1,13 @@
+c:\users\andrey\documents\visual studio 2017\Projects\LearningSystem\LearningSystem.Services\bin\Debug\netstandard2.0\LearningSystem.Services.deps.json
+c:\users\andrey\documents\visual studio 2017\Projects\LearningSystem\LearningSystem.Services\bin\Debug\netstandard2.0\LearningSystem.Services.dll
+c:\users\andrey\documents\visual studio 2017\Projects\LearningSystem\LearningSystem.Services\obj\Debug\netstandard2.0\LearningSystem.Services.csprojResolveAssemblyReference.cache
+c:\users\andrey\documents\visual studio 2017\Projects\LearningSystem\LearningSystem.Services\obj\Debug\netstandard2.0\LearningSystem.Services.csproj.CoreCompileInputs.cache
+c:\users\andrey\documents\visual studio 2017\Projects\LearningSystem\LearningSystem.Services\obj\Debug\netstandard2.0\LearningSystem.Services.AssemblyInfoInputs.cache
+c:\users\andrey\documents\visual studio 2017\Projects\LearningSystem\LearningSystem.Services\obj\Debug\netstandard2.0\LearningSystem.Services.AssemblyInfo.cs
+c:\users\andrey\documents\visual studio 2017\Projects\LearningSystem\LearningSystem.Services\bin\Debug\netstandard2.0\LearningSystem.Services.pdb
+c:\users\andrey\documents\visual studio 2017\Projects\LearningSystem\LearningSystem.Services\bin\Debug\netstandard2.0\LearningSystem.Data.dll
+c:\users\andrey\documents\visual studio 2017\Projects\LearningSystem\LearningSystem.Services\bin\Debug\netstandard2.0\LearningSystem.Data.pdb
+c:\users\andrey\documents\visual studio 2017\Projects\LearningSystem\LearningSystem.Services\obj\Debug\netstandard2.0\LearningSystem.Services.dll
+c:\users\andrey\documents\visual studio 2017\Projects\LearningSystem\LearningSystem.Services\obj\Debug\netstandard2.0\LearningSystem.Services.pdb
+c:\users\andrey\documents\visual studio 2017\Projects\LearningSystem\LearningSystem.Services\bin\Debug\netstandard2.0\LearningSystem.Common.dll
+c:\users\andrey\documents\visual studio 2017\Projects\LearningSystem\LearningSystem.Services\bin\Debug\netstandard2.0\LearningSystem.Common.pdb

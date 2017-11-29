@@ -1,0 +1,25 @@
+﻿@model IEnumerable<CourseListingSM>
+@{
+    ViewData["Title"] = "Active courses";
+}
+
+<div class="jumbotron home-jumbotron">
+    <h1>Welcome to our learning system</h1>
+</div>
+
+<div class="row">
+    @foreach (var course in Model)
+    {
+        <div class="col-md-4">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <a asp-controller="Courses" asp-action="Details" asp-route-id="@course.Id">@course.Name</a>
+                </div>
+                <div class="panel-body">
+                    @course.StartDate.ToShortDateString() - @course.EndDate.ToShortDateString()
+                </div>
+            </div>
+        </div>
+
+    }
+</div>
